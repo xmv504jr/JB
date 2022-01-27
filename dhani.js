@@ -432,7 +432,7 @@ menu =
 
 
 *「 𝗢𝗪𝗡𝗘𝗥 𝗠𝗘𝗡𝗨 」*
-⊛ ${prefix}owner
+⊛ ${prefix}owner'
 
 teks =
 `「 ${botname} 」\n*${tanggal}*`
